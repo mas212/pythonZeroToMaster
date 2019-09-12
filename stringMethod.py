@@ -1,0 +1,10 @@
+a  = "hallo bos"
+a.index('a')
+print(a)
+print(a.index('a'))
+print(a.count('l'))
+print(a.lower())
+print(a.upper())
+print(a.replace("", ""))
+print(a.split(','))
+print('-'.join(a))

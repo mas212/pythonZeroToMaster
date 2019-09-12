@@ -1,0 +1,3 @@
+dataTypeBooleans = true
+
+print(dataTypeBooleans)
