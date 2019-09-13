@@ -14,3 +14,7 @@ print(c)
 
 d = num1 > num2
 print(d)
+
+minute = 60
+
+print(minute / 60)
