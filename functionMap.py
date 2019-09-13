@@ -3,3 +3,4 @@ def product():
 	new_list = list(map(lambda x: x * 3, my_list))
 	print(new_list)
 product()
+
