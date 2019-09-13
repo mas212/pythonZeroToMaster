@@ -23,3 +23,4 @@ def cart(items):
 		print("gagal") 
 
 cart(100)
+

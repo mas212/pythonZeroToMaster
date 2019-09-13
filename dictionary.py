@@ -44,3 +44,9 @@ def dataPeople():
 		if a > 1 :
 			print(people)
 dataPeople()
+
+people = {1: {'name': 'John', 'age': '27', 'sex': 'Male'},
+          2: {'name': 'Marie', 'age': '22', 'sex': 'Female'},
+          3: {'name': 'Luna', 'age': '24', 'sex': 'Female', 'married': 'No'}}
+people[4] = {'name': 'Hari', 'age': '27', 'sex': 'Male'}
+print(people[4])

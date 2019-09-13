@@ -9,3 +9,7 @@ print(listAppend)
 listRemove = list.remove("bos")
 print(listRemove)
 
+my_list = ['p','r','o','b','e']
+print(my_list[1])
+
+print(my_list.pop(3))
